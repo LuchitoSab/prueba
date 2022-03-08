@@ -1,0 +1,27 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.panel-list{
+    border-top: 1px solid black;
+    padding: 8px 0;
+  }
+  #fontawesome-icon {
+    padding: 0 20px;
+  }
+  #icon-list:hover {
+    color: tomato;
+    transform: scale(1.2, 1.2);
+    cursor: pointer;
+  }
+  #icon-grid:hover {
+    color: tomato;
+    transform: scale(1.2, 1.2);
+    cursor: pointer;
+  }
